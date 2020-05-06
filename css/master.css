@@ -1,1 +1,10 @@
 /* This is where my CSS styles are going to go! */
+brand:focus, .navbar-dark .navbar-brand:hover {
+    color: #F7FFF6;
+}
+.jumbotron{
+  background-color:#D3FAD6;
+}
+.title{
+  color: #16DB65;
+}
