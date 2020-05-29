@@ -9,10 +9,16 @@ brand:focus, .navbar-dark .navbar-brand:hover {
   color: #16DB65;
 }
 img {
-  border:solid;
+  border:solid #D3FAD6;
   border-radius: 50px 50px 50px 50px;
 
 }
 .mb-4, .my-4 {
     margin-bottom: 1.5rem!important;
+}
+.card-text{
+  color:#16DB65;
+}
+.card-title{
+  color:#0ee21e;
 }
