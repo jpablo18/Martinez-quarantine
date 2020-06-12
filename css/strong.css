@@ -1,0 +1,14 @@
+.jumbotron {
+    /* background-color: #D3FAD6; */
+    background-image: url(../img/boro.jpg);
+    background-repeat: repeat-x;
+    background-size: contain;
+}
+.title{
+  color:  #16DB65;
+}
+body{
+  background-image: url("../img/boro.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+}
